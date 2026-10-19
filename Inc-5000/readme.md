@@ -1,5 +1,10 @@
 # Inc. 5000 High-Growth Drivers Analysis
 
+## Files
+* **Final_V2.ipynb:** The Juypter notebook file used to run the machine learning algorithms.
+* **INC 5000 companies 2019.xlsx:** The data source. Can also be found here: https://www.kaggle.com/datasets/mysarahmadbhat/inc-5000-companies
+* **MIS-4300-Group-Project.docx:** The final report for this project with my group.
+
 ## Project Overview
 The **Inc. 5000** dataset contains performance and growth metrics for top-performing private companies in 2019. Key variables include company revenue, industry, founding year, geographic location, year-over-year employment growth, and historical list appearances.
 
