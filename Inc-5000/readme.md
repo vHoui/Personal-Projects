@@ -5,7 +5,7 @@ The **Inc. 5000** dataset contains performance and growth metrics for top-perfor
 
 * **Project Type:** Group Project (3 contributors — Data Science / Business Analytics)
 * **Institution:** Wright State University
-* **Tech Stack / Tools:** Python (Pandas, Scikit-learn, Statsmodels), JupyterLab, Tableau
+* **Tech Stack / Tools:** Python (Pandas, Scikit-learn), JupyterLab, Tableau and RapidMiner (AI studio)
 
 ---
 
